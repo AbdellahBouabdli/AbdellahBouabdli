@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔ Computer science at upf.<br>✔ Still learning: Second year at university.<br>✔ My instagram: [Abdullah_bouabdli](https://www.instagram.com/abdullah_bouabdli/)
+✔ Computer science at upf.<br>✔ Still learning: third year at university.<br>✔ My instagram: [Abdullah_bouabdli](https://www.instagram.com/abdullah_bouabdli/)
 
 
 ## 🌐 Socials:
