@@ -77,5 +77,5 @@ When I'm not coding, I'm probably filming something for my socials or going down
 ---
 
 <div align="center">
-<sub>Made with focus · UPF CS · Barcelona</sub>
+<sub>Made with focus · UPF CS </sub>
 </div>
