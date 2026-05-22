@@ -11,7 +11,7 @@
 
 ### Computer Science Student · Université Pompeu Fabra · 3rd Year
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+things+that+work.;Learning+something+new+every+day.;From+Fes+%F0%9F%87%B2%F0%9F%87%A6+to+Azrou+%F0%9F%87%AA%F0%9F%87%B8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+things+that+work.;Learning+something+new+every+day.;From+Fes+%F0+to+Azrou)](https://git.io/typing-svg)
 
 </div>
 
