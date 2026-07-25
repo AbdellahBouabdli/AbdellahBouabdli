@@ -1,7 +1,7 @@
 <!-- ════════════════════════════ HEADER ════════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e0938,50:6d28d9,100:8b5cf6&height=220&section=header&text=Abdellah%20Bouabdli&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20%E2%80%A2%20Full%20Stack&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e0938,50:6d28d9,100:8b5cf6&height=220&section=header&text=Abdellah%20Bouabdli&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20Full%20Stack&descAlignY=58&descSize=18" alt="header" />
 
 <a href="https://github.com/AbdellahBouabdli">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Software+Engineering+Student;AI+%2F+ML+Engineer+in+the+making;Full+Stack+Developer+%7C+Laravel+%E2%80%A2+React;Product+Engineering+Mindset;Building+Enterprise-Grade+Systems" alt="typing-svg" />
