@@ -36,8 +36,7 @@
 ```
 Software engineering student and builder focused on designing clean, scalable,
 production-grade systems. I work across the full stack — from data models and APIs
-to polished interfaces — with a strong product engineering mindset and a growing
-specialization in applied AI / ML.
+to polished interfaces — with a strong product engineering mindset
 ```
 
 - 🧠 **Software Engineering** — clean architecture, MVC, design patterns, UML-driven design
@@ -55,15 +54,15 @@ specialization in applied AI / ML.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=php,python,js,ts,java,c,cpp,html,css&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=php,python,js,ts,java,c,cpp,html,css,lua&theme=dark" alt="languages" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite,sass,vue&theme=dark" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite,vue&theme=dark" alt="frontend" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,postgres,mongodb,redis,sqlite&theme=dark" alt="backend" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,postgres,mongodb,sqlite&theme=dark" alt="backend" />
 
 **Cloud, DevOps & Tooling**
 
@@ -73,18 +72,6 @@ specialization in applied AI / ML.
 
 ---
 
-<!-- ════════════════════════════ AI / ML EXPERTISE ════════════════════════════ -->
-<div align="center"><h2>⟡ AI / ML Expertise</h2></div>
-
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Machine Learning** | ████████░░ Advanced | Supervised & unsupervised models, feature engineering, evaluation |
-| **Deep Learning** | ██████░░░░ Intermediate | Neural networks, CNNs, transfer learning fundamentals |
-| **NLP** | ██████░░░░ Intermediate | Text processing, embeddings, LLM API integration |
-| **Data Engineering** | ███████░░░ Advanced | Pipelines, ETL, data modeling, SQL optimization |
-| **MLOps** | █████░░░░░ Growing | Model deployment, containerization, reproducible workflows |
-
----
 
 <!-- ════════════════════════════ FEATURED PROJECTS ════════════════════════════ -->
 <div align="center"><h2>⟡ Featured Projects</h2></div>
@@ -185,48 +172,10 @@ Designing and building full stack applications and AI-integrated tools while pur
 
 ---
 
-<!-- ════════════════════════════ CERTIFICATIONS ════════════════════════════ -->
-<div align="center"><h2>⟡ Certifications</h2></div>
 
-<div align="center">
 
-**AWS**
 
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="aws-ccp" />
-<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="aws-saa" />
 
-**Oracle**
-
-<img src="https://img.shields.io/badge/Oracle%20Java%20SE-F80000?style=flat-square&logo=oracle&logoColor=white" alt="oracle-java" />
-<img src="https://img.shields.io/badge/Oracle%20Database%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="oracle-sql" />
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL%20Data%20Structures-2563EB?style=flat-square&logo=google-scholar&logoColor=white" alt="nptel-dsa" />
-<img src="https://img.shields.io/badge/NPTEL%20Machine%20Learning-2563EB?style=flat-square&logo=google-scholar&logoColor=white" alt="nptel-ml" />
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="cisco-ccna" />
-<img src="https://img.shields.io/badge/Cisco%20Python%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="cisco-py" />
-
-</div>
-
----
-
-<!-- ════════════════════════════ CODING PROFILES ════════════════════════════ -->
-<div align="center"><h2>⟡ Coding Profiles</h2></div>
-
-<div align="center">
-
-<a href="https://leetcode.com/AbdellahBouabdli"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" /></a>
-<a href="https://auth.geeksforgeeks.org/user/AbdellahBouabdli"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="gfg" /></a>
-<a href="https://www.hackerrank.com/AbdellahBouabdli"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerrank" /></a>
-<a href="https://www.codechef.com/users/AbdellahBouabdli"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef" /></a>
-
-</div>
-
----
 
 <!-- ════════════════════════════ GITHUB ANALYTICS ════════════════════════════ -->
 <div align="center"><h2>⟡ GitHub Analytics</h2></div>
